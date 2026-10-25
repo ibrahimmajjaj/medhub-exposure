@@ -1,0 +1,145 @@
+{
+  "_note": "Coordinates approximate (checked by snapping report). Weights equal (placeholder). Rail-captive relations are modelling assumptions to be confirmed (finished vehicles / container trains).",
+  "bbox": [
+    -7.8,
+    33.4,
+    -4.8,
+    35.95
+  ],
+  "include_rail": true,
+  "road_speeds_kmh": {
+    "motorway": 80,
+    "motorway_link": 50,
+    "trunk": 70,
+    "trunk_link": 40,
+    "primary": 60,
+    "primary_link": 40,
+    "secondary": 50,
+    "secondary_link": 30,
+    "default": 45
+  },
+  "rail_speed_kmh": 60,
+  "transfer_h": 3.0,
+  "max_snap_km": 3.0,
+  "hub": {
+    "name": "MedHub / Tanger Med",
+    "lat": 35.875,
+    "lon": -5.52
+  },
+  "terminals": [
+    {
+      "name": "Tanger Med rail terminal",
+      "lat": 35.88,
+      "lon": -5.505
+    },
+    {
+      "name": "Kenitra",
+      "lat": 34.26,
+      "lon": -6.58
+    },
+    {
+      "name": "Casablanca Ain Sebaa",
+      "lat": 33.6,
+      "lon": -7.53
+    },
+    {
+      "name": "Fes",
+      "lat": 34.04,
+      "lon": -5.0
+    }
+  ],
+  "destinations": [
+    {
+      "name": "Renault Melloussa",
+      "lat": 35.75,
+      "lon": -5.62,
+      "weight": 1
+    },
+    {
+      "name": "Tanger Automotive City",
+      "lat": 35.64,
+      "lon": -5.67,
+      "weight": 1
+    },
+    {
+      "name": "Tanger Free Zone",
+      "lat": 35.72,
+      "lon": -5.9,
+      "weight": 1
+    },
+    {
+      "name": "Tetouan",
+      "lat": 35.57,
+      "lon": -5.37,
+      "weight": 1
+    },
+    {
+      "name": "Kenitra Atlantic Free Zone",
+      "lat": 34.311,
+      "lon": -6.416,
+      "weight": 1
+    },
+    {
+      "name": "Fes",
+      "lat": 34.03,
+      "lon": -5.0,
+      "weight": 1
+    },
+    {
+      "name": "Casablanca",
+      "lat": 33.59,
+      "lon": -7.6,
+      "weight": 1
+    },
+    {
+      "name": "Renault Melloussa (rail, finished vehicles)",
+      "lat": 35.75,
+      "lon": -5.62,
+      "weight": 1,
+      "rail_captive": true
+    },
+    {
+      "name": "Kenitra Atlantic Free Zone (rail)",
+      "lat": 34.311,
+      "lon": -6.416,
+      "weight": 1,
+      "rail_captive": true
+    },
+    {
+      "name": "Casablanca (rail, containers)",
+      "lat": 33.6,
+      "lon": -7.53,
+      "weight": 1,
+      "rail_captive": true
+    }
+  ],
+  "regional_closures": [
+    {
+      "name": "Loukkos plain flood (hypothetical)",
+      "lat": 35.0,
+      "lon": -5.9,
+      "radius_km": 15
+    }
+  ],
+  "governance_regimes": [
+    {
+      "name": "fragmented",
+      "duration_days": 4,
+      "procedural_delay_h": 12
+    },
+    {
+      "name": "coordinated",
+      "duration_days": 1,
+      "procedural_delay_h": 2
+    }
+  ],
+  "road_xml": "roads.osm",
+  "rail_xml": "rail.osm",
+  "hub_rail": {
+    "name": "Tanger Med port rail access",
+    "lat": 35.88,
+    "lon": -5.505
+  },
+  "modal_shift_h": 12.0,
+  "rail_service_speed_kmh": 20
+}
