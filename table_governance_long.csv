@@ -1,0 +1,11 @@
+regime,scenario,duration_days,procedural_delay_h,unsatisfied_share,disruption_hours_index
+fragmented,S1 worst single road link,4,12,0,48.05258532175985
+fragmented,S2 rail layer outage,4,12,0,61.35571302040626
+fragmented,S3 compound (S1+S2),4,12,0,61.40829834216611
+fragmented,S4 regional closure: Loukkos plain flood (hypothetical),4,12,0,48.00433182728036
+fragmented,S5 compound (S4 Loukkos plain flood (hypothetical) + S2),4,12,0,61.36004484768662
+coordinated,S1 worst single road link,1,2,0,2.0131463304399624
+coordinated,S2 rail layer outage,1,2,0,5.338928255101566
+coordinated,S3 compound (S1+S2),1,2,0,5.352074585541528
+coordinated,S4 regional closure: Loukkos plain flood (hypothetical),1,2,0,2.00108295682009
+coordinated,S5 compound (S4 Loukkos plain flood (hypothetical) + S2),1,2,0,5.340011211921656

@@ -1,0 +1,15 @@
+{
+  "nodes": 12616,
+  "links": 17815,
+  "road_km": 8608.142166719432,
+  "rail_km": 1960.129995825714,
+  "transfer_links": [
+    "Casablanca Ain Sebaa",
+    "Kenitra",
+    "Fes",
+    "Tanger Med rail terminal"
+  ],
+  "candidate_links": 556,
+  "candidate_rail_links": 99,
+  "cut_links": 0
+}

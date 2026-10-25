@@ -1,0 +1,7 @@
+scenario,removed_links,delta_connected_h,unsatisfied_share,shifted_share
+S0 baseline,0,0.0,0,0.0
+S1 worst single road link,1,0.013146330439962207,0,0.0
+S2 rail layer outage,2040,3.338928255101566,0,0.30000000000000004
+S3 compound (S1+S2),2041,3.352074585541528,0,0.30000000000000004
+S4 regional closure: Loukkos plain flood (hypothetical),135,0.0010829568200898976,0,0.0
+S5 compound (S4 Loukkos plain flood (hypothetical) + S2),2175,3.340011211921656,0,0.30000000000000004

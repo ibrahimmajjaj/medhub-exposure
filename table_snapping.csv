@@ -1,0 +1,16 @@
+type,name,lat,lon,node,snap_km,node_lat,node_lon,ok
+hub,MedHub / Tanger Med,35.875,-5.52,r1078942544,0.7932288755773546,35.8685627,-5.5237937,True
+hub rail,MedHub / Tanger Med,,,t9425003987,0.3583843718934359,35.8822397,-5.5078605,True
+destination,Renault Melloussa,35.75,-5.62,r491460789,1.3247703836679432,35.7388946,-5.6253154,True
+destination,Tanger Automotive City,35.64,-5.67,r1584822365,1.2637323867535502,35.637257,-5.6835707,True
+destination,Tanger Free Zone,35.72,-5.9,r5978429172,0.6048812762412639,35.7242808,-5.8958656,True
+destination,Tetouan,35.57,-5.37,r1202839635,0.2163764317844274,35.5691537,-5.3721542,True
+destination,Kenitra Atlantic Free Zone,34.311,-6.416,r5549195993,1.7999612047051798,34.2948926,-6.417946,True
+destination,Fes,34.03,-5.0,r1585156404,0.2126748346449596,34.0313189,-4.9983286,True
+destination,Casablanca,33.59,-7.6,r428459764,0.17044169084959357,33.5885126,-7.6004446,True
+destination,"Renault Melloussa (rail, finished vehicles)",35.75,-5.62,r491460789,1.3247703836679432,35.7388946,-5.6253154,True
+destination rail,"Renault Melloussa (rail, finished vehicles)",,,t1579880491,4.33405350521311,35.7230657,-5.6547089,False
+destination,Kenitra Atlantic Free Zone (rail),34.311,-6.416,r5549195993,1.7999612047051798,34.2948926,-6.417946,True
+destination rail,Kenitra Atlantic Free Zone (rail),,,t9450411296,1.028068032325527,34.301802,-6.4148654,True
+destination,"Casablanca (rail, containers)",33.6,-7.53,r9490163695,0.34146928287373446,33.6027119,-7.5282701,True
+destination rail,"Casablanca (rail, containers)",,,t13427453504,0.6588693841645514,33.6058475,-7.5311494,True

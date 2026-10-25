@@ -1,0 +1,11 @@
+name,relation,weight,baseline_tt_h,exposure_worst_delay_h,exposure_ratio,edge_disjoint_paths,single_point_of_failure,exposure_index,absorption_index,typology,net_vulnerability
+Renault Melloussa,road/multimodal,0.1,0.22789743797155707,0.049445523385521634,0.21696392827238684,3,False,0.008906036902911313,,n/a (no absorption data),
+Tanger Automotive City,road/multimodal,0.1,0.8571893726289673,0.026904099758104927,0.031386413104482466,3,False,0.001265335905289197,,n/a (no absorption data),
+Tanger Free Zone,road/multimodal,0.1,0.7020010780087528,0.04725864611038244,0.0673199053261186,3,False,0.0027448096961603143,,n/a (no absorption data),
+Tetouan,road/multimodal,0.1,0.8566026099407908,0.05183841614094786,0.060516294883260956,2,False,0.0024646876509268655,,n/a (no absorption data),
+Kenitra Atlantic Free Zone,road/multimodal,0.1,2.9640343828359734,0.001938201626914715,0.0006539065937083542,3,False,0.0,,n/a (no absorption data),
+Fes,road/multimodal,0.1,5.097784747553028,0.13146330439962206,0.025788320007572967,3,False,0.0010348480928425328,,n/a (no absorption data),
+Casablanca,road/multimodal,0.1,4.714824852529054,0.0060471792302108085,0.0012825883080189234,3,False,2.588443431508089e-05,,n/a (no absorption data),
+"Renault Melloussa (rail, finished vehicles)",rail-captive,0.1,0.4835325267532229,11.744364911218334,24.28867606917419,1,True,0.9999999999999589,,n/a (no absorption data),
+Kenitra Atlantic Free Zone (rail),rail-captive,0.1,3.978402529040328,10.985631853795645,2.761317331166488,1,True,0.1136635748309676,,n/a (no absorption data),
+"Casablanca (rail, containers)",rail-captive,0.1,5.942408753436511,10.659285786001682,1.7937651595975097,1,True,0.07382697697658962,,n/a (no absorption data),
